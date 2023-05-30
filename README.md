@@ -1,2 +1,1 @@
-# esplotar_globos_3
-samuel_tobar
+# explotar-globos-3-plantilla
